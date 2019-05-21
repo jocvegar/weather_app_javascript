@@ -1,4 +1,4 @@
-# weather_app_javascript
+# Javascript Weather App
 A sample weather app using plain javascript
 note: allow the browser to know your location
 
